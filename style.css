@@ -13,8 +13,8 @@ body {
 .header {
     display: flex;
     justify-content: space-evenly;
-    background-color: blueviolet;
-    padding: 40px;
+    background-color: rgba(137, 43, 226, 0.485);
+    padding: 30px;
     position: sticky;
     top: 0;
     z-index: 1;
@@ -25,9 +25,9 @@ body {
 }
 
 .header a {
-    color: white;
+    color: rgb(41, 31, 39);
     text-decoration: none;
-    font-size: 30px;
+    font-size: 20px;
     transition: transform 0.2s ease;
 }
 
